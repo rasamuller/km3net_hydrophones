@@ -1,0 +1,1 @@
+desktop > AcDom > DOM > config2 > "WAVELETS_ARE_ALL_THE_SAME.py"
